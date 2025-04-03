@@ -1,5 +1,5 @@
 package Stack;
-//stack is first in first out(FIFO)
+//stack is first in last out(FIFO)
 //Add from the top and remove from the top
 public class Stack {
 
